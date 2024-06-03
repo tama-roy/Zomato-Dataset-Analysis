@@ -5,7 +5,7 @@ Bengaluru, a city which boasts over 50,000 eateries offering food from all over 
 ## Context
 India's IT capital is Bengaluru. Since they lack the time to prepare their own meals, the majority of individuals in this area are primarily dependent on the food from restaurants. Given the enormous demand for eateries, it is now crucial to research a location's demographics to determine:
 
-a) Which foods are more popular in a particular area.
+a) Which foods are more popular in a particular area. \\
 b) If everyone in the area is a vegetarian foodie.
 c) Whether the area is home to members of a specific religious group, such as the primarily vegetarian Jain, Marwari, or Gujarati communities.
 
