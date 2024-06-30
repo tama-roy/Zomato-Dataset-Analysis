@@ -1,4 +1,4 @@
-## Analysis of Eateries in Bengaluru
+## Analysis of Eateries in Bangaluru
 Introduction
 Bengaluru, a city which boasts over 50,000 eateries offering food from all over the globe. The sector isn't yet saturated, and demand is rising daily as more eateries open every day. Despite the growing demand, it is now more challenging for new eateries to compete with well-established ones. The majority are offering the same cuisine.
 
@@ -23,3 +23,7 @@ c) Restaurants with a theme or not
 d) Which area of the city has the most eateries serving that particular cuisine
 
 And more...
+
+## Conclusion
+By performing exploratory data analysis on this dataset, the answer to the question- Which place could be possibly the best place to open a restaurent in Bangaluru?
+And the answer is Koramangala 5th Block.
