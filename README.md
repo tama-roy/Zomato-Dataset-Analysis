@@ -12,7 +12,7 @@ b) If everyone in the area is a vegetarian foodie.
 c) Whether the area is home to members of a specific religious group, such as the primarily vegetarian Jain, Marwari, or Gujarati communities.
 
 ## Objective
-These analyses can be performed using the data, looking at variables such as:
+The objective of this project is to find out the best place one can open a new restaurent in Bangaluru. These analyses can be performed using the data, looking at variables such as:
 
 a) Estimated cost of food
 
@@ -25,5 +25,4 @@ d) Which area of the city has the most eateries serving that particular cuisine
 And more...
 
 ## Conclusion
-By performing exploratory data analysis on this dataset, the answer to the question- Which place could be possibly the best place to open a restaurent in Bangaluru?
-And the answer is Koramangala 5th Block.
+By performing exploratory data analysis on this dataset, the answer to the question- Which place could be possibly the best place to open a restaurent in Bangaluru?, is Koramangala 5th Block.
